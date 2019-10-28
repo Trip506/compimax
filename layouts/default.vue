@@ -65,6 +65,11 @@ export default {
 					to: "/"
 				},
 				{
+					icon: "mdi-text",
+					title: "text types",
+					to: "/text-types"
+				},
+				{
 					icon: "mdi-chart-bubble",
 					title: "Inspire",
 					to: "/inspire"
