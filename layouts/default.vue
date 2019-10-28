@@ -70,6 +70,11 @@ export default {
 					to: "/text-types"
 				},
 				{
+					icon: "mdi-user",
+					title: "layout playground",
+					to: "/layout-playground"
+				},
+				{
 					icon: "mdi-chart-bubble",
 					title: "Inspire",
 					to: "/inspire"
