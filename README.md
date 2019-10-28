@@ -20,11 +20,17 @@
 -----------
 
 >Change navbar title 
+
 >Add a new page and include it in navigation
+
 >Change color scheme 
+
 >Add vuetify elements from website
+
 >Transform vuetify elements into components
+
 >Change favicon 
+
 > Experiment with MD icons 
 
 
