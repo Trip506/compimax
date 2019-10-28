@@ -1,22 +1,32 @@
 # compimax
 
 > The best computer store in the world
+> Using Vuetify 1.5 
 
-## Build Setup
+## HELP 
 
-``` bash
-# install dependencies
-$ npm run install
+> Vuetify version 1.5
+> https://v15.vuetifyjs.com/en/
 
-# serve with hot reload at localhost:3000
-$ npm run dev
+> Material design icons 
+>https://material.io/tools/icons/?style=baseline
 
-# build for production and launch server
-$ npm run build
-$ npm run start
+>Include image from assets 
+> :src="require('@/assets/NAME.jpg')
 
-# generate static project
-$ npm run generate
-```
+## Tasks  
 
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+## TO DO 
+-----------
+
+>Change navbar title 
+>Add a new page and include it in navigation
+>Change color scheme 
+>Add vuetify elements from website
+>Transform vuetify elements into components
+>Change favicon 
+> Experiment with MD icons 
+
+
+## DONE 
+-----------
